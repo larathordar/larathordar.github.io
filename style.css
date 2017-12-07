@@ -1,3 +1,7 @@
-h1 {
-  color: #0066ff
+<!DOCTYPE HTML>
+
+body{
+  background-color: gray;
+  background-size:cover;
 }
+h1{text-align: center;}
