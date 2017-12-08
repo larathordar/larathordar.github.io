@@ -1,7 +1,56 @@
-<!DOCTYPE HTML>
 
-body{
-  background-color: gray;
-  background-size:cover;
+
+h1{
+  text-align: center;
 }
-h1{text-align: center;}
+.blog{
+    float:left;
+    width: 400px;
+    height: 800px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin-left: 150px;
+    margin-right: 50px;
+    margin-top: 25px;
+}
+.blog2 {
+  float:right;
+  overflow: hidden;
+  width: 400px;
+  height: 800px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin-left: 100px;
+  margin-right: 150px;
+  margin-top: 25px;
+}
+.blog3{
+    float:left;
+    width: 400px;
+    height: 800px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin-left: 150px;
+    margin-right: 50px;
+    margin-top: 25px;
+}
+.blog4 {
+  float:right;
+  overflow: hidden;
+  width: 400px;
+  height: 800px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin-left: 100px;
+  margin-right: 150px;
+  margin-top: 25px;
+}
+.whoamI {
+  border: 5px solid gray;
+  width: 60%;
+  height: 1000px;
+  padding: 10px;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 10%;
+}
